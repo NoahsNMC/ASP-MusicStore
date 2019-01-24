@@ -1,0 +1,2 @@
+C:\Users\oster\OneDrive\NMC\CIT 218\Week 1\MVCMusicStore\MVCMusicStore.Tests\obj\Debug\MVCMusicStore.Tests.csprojAssemblyReference.cache
+C:\Users\oster\OneDrive\NMC\CIT 218\Week 1\MVCMusicStore\MVCMusicStore.Tests\obj\Debug\MVCMusicStore.Tests.csproj.CoreCompileInputs.cache
